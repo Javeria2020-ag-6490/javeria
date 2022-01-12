@@ -1,0 +1,13 @@
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).csprojAssemblyReference.cache
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).AssemblyInfo.cs
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).exe
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).deps.json
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).runtimeconfig.json
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).dll
+C:\Users\ProBook\Desktop\New folder (2)\bin\Debug\netcoreapp3.1\New folder (2).pdb
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).dll
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).pdb
+C:\Users\ProBook\Desktop\New folder (2)\obj\Debug\netcoreapp3.1\New folder (2).genruntimeconfig.cache
